@@ -11,22 +11,7 @@
 <!--  Free CSS Templates from www.templatemo.com -->
 
     	
-       <?php
-       include "./subpage/left.php";
-       ?>
-        </div> <!-- end of content left -->
-        
-        <div id="templatemo_content_right">
-        	<?php
-            include "./subpage/right.php";
-            ?>
-        </div> <!-- end of content right -->
-    
-    	<div class="cleaner_with_height">&nbsp;</div>
-    </div> <!-- end of content -->
-    <?php
-    include"./subpage/footer.php" ;
-    ?>
+
    
    
 </div> <!-- end of container -->
