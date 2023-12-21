@@ -9,20 +9,7 @@
 </head>
 <body>
 <!--  Free CSS Templates from www.templatemo.com -->
-<div id="templatemo_container">
-	<div id="templatemo_menu">
-    	<?php
-        include "./subpage/menu.php";
-        ?>
-    </div> <!-- end of menu -->
-    
-    <div id="templatemo_header">
-        <?php
-        include"./subpage/header.php"
-        ?>
-    </div> <!-- end of header -->
-    
-    <div id="templatemo_content">
+
     	
        <?php
        include "./subpage/left.php";
